@@ -1,0 +1,1 @@
+export const blogName = "Alonso Blog";
